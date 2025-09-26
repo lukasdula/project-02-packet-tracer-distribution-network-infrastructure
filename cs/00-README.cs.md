@@ -35,7 +35,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 8. [Řešení problémů](08-reseni-problemu.md)
     
-9. [Shrnutí a závěr](
+9. [Shrnutí a závěr](09-zaver-a-shrnuti.md)
     
 
 ## Přístup do CLI zařízení
