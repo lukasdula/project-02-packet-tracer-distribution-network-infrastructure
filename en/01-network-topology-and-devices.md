@@ -89,4 +89,7 @@ Straight-through copper cables are used throughout the network, as they are the 
 This introductory chapter presents the topology of the distribution company network at the **CCNA I** level, describing the used devices and physical connections including ports.  
 These elements form the foundation for further configuration and the logical division of the network.
 
-**Continue to the next chapter:** Addressing and VLAN Planning
+
+---
+
+**Continue to the next chapter:** (02-addressing-and-vlan-planning.md)  
