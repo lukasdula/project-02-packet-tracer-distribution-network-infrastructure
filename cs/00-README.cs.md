@@ -25,7 +25,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 3. [Základní síťová konfigurace](03‑zakladni-sitova-konfigurace.md)
     
-4. [VLANy a subinterface](
+4. [VLANy a subinterface](04-vlany-a-subinterface.md)
     
 5. [Síťové služby](
     
