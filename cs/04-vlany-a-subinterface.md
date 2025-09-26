@@ -474,6 +474,8 @@ V této části se vytvářejí VLANy a přiřazují se porty pro jednotlivá za
 
 Dále se nové VLAN sítě integrují do směrovacího protokolu OSPF, aby mezi sebou mohly komunikovat i přes různé routery. Klíčovým zařízením ve VLAN 10 (servery a Admin PC) a tiskárně ve VLAN 20 se přidělují statické IP adresy. Funkčnost celé konfigurace je ověřena diagnostikou a všechny testovací pingy proběhly úspěšně bez ztrát.
 
+---
+
 **Pokračovat na další kapitolu: Síťové služby.** [Síťové služby](05-sitove-sluzby.md)
 
 
