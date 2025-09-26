@@ -88,6 +88,9 @@ V celé síti se používají straight-through měděné kabely, které jsou sta
 
 V této úvodní kapitole se představuje topologie distribuční firmy na úrovni **CCNA I**, popsána použitá zařízení a fyzické propojení včetně portů. Tyto prvky tvoří základ pro další konfiguraci a logické rozdělení sítě.
 
+
+---
+
 **Pokračovat na další kapitolu:** [Adresní a VLAN plánování](02-adresni-a-vlan-planovani.md)
 
 
