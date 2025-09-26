@@ -19,7 +19,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
 
 ## Struktura projektu 
 
-1. Síťová topologie a použitá zařízení(cs/01-sitova-topologie-a-pouzita-zarizeni.md)
+1. Síťová topologie a použitá zařízení(01-sitova-topologie-a-pouzita-zarizeni.md)
     
 2. Adresní a VLAN plánování
     
