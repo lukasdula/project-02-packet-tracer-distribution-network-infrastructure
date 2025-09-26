@@ -74,7 +74,9 @@ Na serveru SRV01 budou vytvořeny DHCP pooly pro jednotlivé VLAN. Každý pool 
 | Management                | 10.31.50.1      | 10.31.10.11 | 10.31.50.50      | 255.255.255.0 | 30       |
 | Warehouse                 | 10.31.60.1      | 10.31.10.11 | 10.31.60.60      | 255.255.255.0 | 30       |
 | Guest                     | 10.31.70.1      | 10.31.10.11 | 10.31.70.70      | 255.255.255.0 | 30       |
+
 ![SRV01-DHCP](../images/Pasted%20image%2020250915180653.png)
+
 ### Postup konfigurace:
 
 * Na serveru SRV01 otevřít **Services → DHCP**.
