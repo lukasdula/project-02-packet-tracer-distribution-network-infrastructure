@@ -7,7 +7,7 @@ Projekt představuje střední model firemní sítě **distribuční společnost
 
 Topologie zahrnuje **sedm VLAN**, které oddělují jednotlivé části podniku. Každá VLAN má svůj adresní prostor a default gateway na routeru R2 nebo R3. Toto uspořádání zvyšuje úroveň bezpečnosti a umožňuje centrální správu celé sítě.
 
-![Typology-map](../images/Pasted%20image%2020250924020629.png)
+![TYPOLOGY-MAP](../images/Pasted%20image%2020250926200556.png)
 
 **Síť je rozdělena do devíti logických zón:**
 
