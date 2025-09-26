@@ -571,7 +571,9 @@ ACL byly nakonfigurovány na routerech R2 a R3, přiřazeny na příslušná roz
 
 Port-security a administrativní vypínání portů jsme tentokrát vynechali, protože byla řešena už v prvním projektu small-cafe-network a v tomto typu firmy, kde mají do interní sítě přístup pouze zaměstnanci, nejsou tyto opatření tolik důležitá.
 
-**Pokračovat na další kapitolu:** Diagnostika
+---
+
+**Pokračovat na další kapitolu:** [Testování konektivity](07-testovani-konektivity.md)
 
 
 
