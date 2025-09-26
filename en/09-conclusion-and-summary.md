@@ -30,4 +30,4 @@ Testing and troubleshooting confirmed the correct functionality of all component
 - **Chapter 8:** Troubleshooting -> examples of fixing OSPF, VLAN, DHCP, and ACL issues, configuration correction, and confirmation of full network functionality.
     
 
-**Back to project overview:** README
+**Back to project overview:** [README](/00-README.cs.md)
