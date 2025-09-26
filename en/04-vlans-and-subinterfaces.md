@@ -473,7 +473,10 @@ In this part, VLANs were created and assigned to ports for individual devices on
 
 The new VLAN networks were then integrated into the OSPF routing protocol, enabling communication across different routers. Key devices in VLAN 10 (servers and Admin PC) and the printer in VLAN 20 were given static IP addresses. The configuration was tested with diagnostics, and all ping tests completed successfully without packet loss.
 
-**Next chapter: Network Services.**
+
+---
+
+**Next chapter: Network Services.** [Network Services](05-network-services.md)  
 
 
 
