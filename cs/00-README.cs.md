@@ -23,7 +23,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 2. [Adresní a VLAN plánování](02-adresni-a-vlan-planovani.md)
     
-3. [Základní síťová konfigurace](
+3. [Základní síťová konfigurace](03‑zakladni-sitova-konfigurace.md)
     
 4. [VLANy a subinterface](
     
