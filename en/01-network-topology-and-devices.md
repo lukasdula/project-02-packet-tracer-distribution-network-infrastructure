@@ -9,7 +9,7 @@ The network is structured to demonstrate the principles of segmentation, routing
 The topology includes seven **VLANs,** which separate different parts of the company. Each VLAN has its own address space and a default gateway configured on router R2 or R3.  
 This arrangement increases the overall level of security and allows centralized management of the entire network.
 
-![Typology-map](../images/Pasted%20image%2020250924020629.png)
+![TYPOLOGY-MAP](../images/Pasted%20image%2020250926200556.png)
 
 **The network is divided into nine logical zones:**
 
