@@ -488,7 +488,7 @@ write memory
 ```
 ping 10.31.10.20        
 ```
-![Final-TEST-1](Pasted%20image%2020250926190148.png)
+![Final-TEST-1](../images/Pasted%20image%2020250926190148.png)
 
 * **ping z PC11 (Guest)**  všude do interní sítě -> pro ověření SRV02 a PC2 (Sales) ** musí být blokováno:
     
