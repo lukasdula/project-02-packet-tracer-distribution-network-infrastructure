@@ -366,7 +366,9 @@ In this chapter, hostnames are assigned to devices with CLI access, and IP addre
 
 For simulation purposes, OSPF is also enabled on the ISP router. **Functionality is confirmed by a ping from R3 to ISP (5/5 without loss).**
 
-**Continue to the next chapter:** VLAN subinterfaces.
+---
+
+**Continue to the next chapter:** [VLANs and Subinterfaces](04-vlans-and-subinterfaces.md)  
 
 
 
