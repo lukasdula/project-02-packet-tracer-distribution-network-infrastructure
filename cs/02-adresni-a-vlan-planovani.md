@@ -66,7 +66,7 @@ V této části projektu se stanovuje detailní adresní plán celé sítě a ro
 
 Návrh IP adresace a VLAN segmentace představuje základní kámen pro následnou konfiguraci směrování, přepínání a síťových služeb.
 
-**Pokračovat na další kapitolu:** Základní síťová konfigurace
+**Pokračovat na další kapitolu:** [Základní síťová konfigurace](03‑zakladni-sitova-konfigurace.md)
 
 
 
