@@ -476,7 +476,7 @@ Dále se nové VLAN sítě integrují do směrovacího protokolu OSPF, aby mezi 
 
 ---
 
-**Pokračovat na další kapitolu: Síťové služby.** [Síťové služby](05-sitove-sluzby.md)
+**Pokračovat na další kapitolu:** [Síťové služby](05-sitove-sluzby.md)
 
 
 
