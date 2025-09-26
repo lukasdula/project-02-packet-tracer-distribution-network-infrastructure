@@ -578,7 +578,10 @@ The ACLs were configured on routers R2 and R3, applied to the appropriate interf
 
 Port security and administrative shutdown of unused ports were omitted this time, since they were already covered in the first project _small-cafe-network_. In this type of company, where only employees have access to the internal network, these measures are not as critical.
 
-**Continue to the next chapter: Diagnostics**
+
+---
+
+**Continue to the next chapter:** [Connectivity Testing](07-connectivity-testing.md)  
 
 
 
