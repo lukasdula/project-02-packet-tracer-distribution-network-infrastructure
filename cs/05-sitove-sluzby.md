@@ -353,7 +353,7 @@ V kapitole byly nakonfigurovány klíčové interní služby ve VLAN 10: DHCP a 
 
 ---
 
-**Pokračovat na další kapitolu:** Zabezpečení sítě
+**Pokračovat na další kapitolu:** [Zabezpečení sítě](06-zabezpeceni-site.md)
 
 
 
