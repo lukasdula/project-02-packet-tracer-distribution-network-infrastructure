@@ -567,7 +567,10 @@ Chapter 7 verifies the functionality of the entire network, from basic interconn
 
 Next, SSH access between routers and the availability of management VLAN 99 were tested. The final ACL diagnostics confirmed that inter-VLAN communication followed the defined policy: Guest had access only to the ISP, Admin and Management VLANs had privileges to Finance, and access to servers and the printer was allowed by the rules. This chapter therefore confirms the stable and secure operation of the entire topology.
 
-**Continue to the next chapter:** Troubleshooting
+
+---
+
+**Continue to the next chapter:** [Troubleshooting](08-troubleshooting.md)  
 
 
 
