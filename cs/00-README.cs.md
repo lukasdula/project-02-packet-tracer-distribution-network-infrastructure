@@ -1,4 +1,4 @@
-# **9 - Distribuční síťová infrastruktura**
+# **Distribuční síťová infrastruktura**
 
 ## Úvod a cíle
 
