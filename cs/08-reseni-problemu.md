@@ -520,4 +520,6 @@ V téhle kapitole jsme začaly u **OSPF**: nejdřív jsme zkontrolovali směrov�
 
 Ve druhém části kapitoly jsme řešily **DHCP** kdy relé požadavků mířilo na nesprávnou adresu, takže klienti v jedné VLAN nedostávali konfiguraci. Po opravě ip helperu se adresy začaly přidělovat k opravené VLAN dle správného zadání. Na závěr přišla **ACL** -> odstranily jsme široký povolovací řádek ve Finance a srovnaly pořadí pravidel u Guest, aby to odpovídalo naší zvolené bezpečnostní politice. Po těchto úpravách síť funguje podle očekávání.
 
-**Pokračovat na další kapitolu:** Závěr a shrnutí
+---
+
+**Pokračovat na další kapitolu:** [Shrnutí a závěr](09-zaver-a-shrnuti.md)
