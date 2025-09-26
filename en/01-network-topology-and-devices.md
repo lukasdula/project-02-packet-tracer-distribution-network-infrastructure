@@ -92,4 +92,4 @@ These elements form the foundation for further configuration and the logical div
 
 ---
 
-**Continue to the next chapter:** (02-addressing-and-vlan-planning.md)  
+**Continue to the next chapter:** [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)   
