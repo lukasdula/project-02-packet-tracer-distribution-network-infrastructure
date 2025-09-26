@@ -1,4 +1,4 @@
-# 9 - Distribution Network Infrastructure
+# **Distribution Network Infrastructure**
 
 ## Introduction and Objectives
 
