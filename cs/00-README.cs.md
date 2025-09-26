@@ -29,7 +29,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 5. [Síťové služby](05-sitove-sluzby.md)
     
-6. [Zabezpečení sítě](
+6. [Zabezpečení sítě](06-zabezpeceni-site.md)
     
 7. [Testování konektivity](
     
