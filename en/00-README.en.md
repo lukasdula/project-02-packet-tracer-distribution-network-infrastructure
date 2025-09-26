@@ -19,23 +19,23 @@ The network is systematically divided into several zones that reflect common ent
 
 ## Project Structure
 
-1. Network Topology and Used Devices  
+1. [Network Topology and Used Devices](01-network-topology-and-devices.md)  
     
-2. Addressing and VLAN Planning  
+2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)  
     
-3. Basic Network Configuration  
+3. [Basic Network Configuration]  
     
-4. VLANs and Subinterfaces  
+4. [VLANs and Subinterfaces]  
     
-5. Network Services  
+5. [Network Services]  
     
-6. Network Security  
+6. [Network Security]  
     
-7. Connectivity Testing  
+7. [Connectivity Testing]  
     
-8. Troubleshooting  
+8. [Troubleshooting]  
     
-9. Summary and Conclusion
+9. [Summary and Conclusion]
 
 ## Access to CLI Devices
 
