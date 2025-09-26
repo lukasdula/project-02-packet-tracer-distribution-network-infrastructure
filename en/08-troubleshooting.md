@@ -526,7 +526,9 @@ In this chapter the work began with OSPF: first checking routing between backbon
 
 In the second part of the chapter DHCP was addressed, where the relay was pointing to the wrong address and clients in one VLAN did not receive configuration. After fixing the helper, addresses began to be assigned to the corrected VLAN as expected. Finally, ACLs were checked – removing a broad Finance permit and fixing the rule order for Guest so that it aligned with the chosen security policy. After these corrections, the network functions as intended.
 
-**Continue to the next chapter:** Conclusion and Summary
+---
+
+**Continue to the next chapter:** [Summary and Conclusion](09-conclusion-and-summary.md)
 
 
 
