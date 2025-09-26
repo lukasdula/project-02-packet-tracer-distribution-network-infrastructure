@@ -21,21 +21,21 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
 
 1. [Síťová topologie a použitá zařízení](01-sitova-topologie-a-pouzita-zarizeni.md)
     
-2. Adresní a VLAN plánování
+2. [Adresní a VLAN plánování](02-adresni-a-vlan-planovani.md)
     
-3. Základní síťová konfigurace
+3. [Základní síťová konfigurace](
     
-4. VLANy a subinterface
+4. [VLANy a subinterface](
     
-5. Síťové služby
+5. [Síťové služby](
     
-6. Zabezpečení sítě
+6. [Zabezpečení sítě](
     
-7. Testování konektivity
+7. [Testování konektivity](
     
-8. Troubleshooting
+8. [Řešení problémů](
     
-9. Shrnutí a závěr
+9. [Shrnutí a závěr](
     
 
 ## Přístup do CLI zařízení
