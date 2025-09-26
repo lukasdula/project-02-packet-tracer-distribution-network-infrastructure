@@ -576,7 +576,7 @@ Kapitola 7 ověřuje funkčnost celé sítě od základního propojení až po b
 Následně se testoval SSH přístup mezi routery a dostupnost management VLAN 99. Závěrečná diagnostika ACL potvrdila, že komunikace mezi VLAN odpovídá nastavené politice ,Guest má pouze přístup k ISP, Admin a Management VLAN mají privilegia k Finance a přístup k serverům i tiskárně je povolen dle pravidel. Kapitola tak potvrzuje stabilní a bezpečnou funkci celé topologie.
 
 
-**Pokračovat na další kapitolu:** Troubleshooting
+**Pokračovat na další kapitolu:** [Řešení problémů](08-reseni-problemu.md)
 
 
 
