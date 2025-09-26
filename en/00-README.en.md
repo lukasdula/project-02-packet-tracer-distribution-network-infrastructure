@@ -23,19 +23,19 @@ The network is systematically divided into several zones that reflect common ent
     
 2. [Addressing and VLAN Planning](02-addressing-and-vlan-planning.md)  
     
-3. [Basic Network Configuration]  
+3. [Basic Network Configuration](03-basic-network-configuration.md)  
     
-4. [VLANs and Subinterfaces]  
+4. [VLANs and Subinterfaces](04-vlans-and-subinterfaces.md)  
     
-5. [Network Services]  
+5. [Network Services](05-network-services.md)  
     
-6. [Network Security]  
+6. [Network Security](06-network-security.md)  
     
-7. [Connectivity Testing]  
+7. [Connectivity Testing](07-connectivity-testing.md)  
     
-8. [Troubleshooting]  
+8. [Troubleshooting](08-troubleshooting.md)  
     
-9. [Summary and Conclusion]
+9. [Summary and Conclusion](09-conclusion-and-summary.md)
 
 ## Access to CLI Devices
 
