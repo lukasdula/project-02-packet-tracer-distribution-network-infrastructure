@@ -33,4 +33,4 @@ Testování a troubleshooting potvrdily správnou funkci všech částí -> pát
 
 
 
-**Zpět na přehled projektu:** README
+**Zpět na přehled projektu:** [Czech version](cs/00-README.cs.md)
