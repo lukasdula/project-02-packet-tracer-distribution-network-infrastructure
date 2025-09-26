@@ -1,2 +1,12 @@
-# project-02-distribution-network-infrastructure
-A medium-sized distribution network is my second project in Cisco Packet Tracer (CZ &amp; EN documentation)
+# Project Distribution Network Infrastructure
+
+This is my second network project – a medium-sized distribution network infrastructure created in Cisco Packet Tracer.
+
+The project was developed as part of my preparation for **CCNA I: Introduction to Networks**.
+
+## Documentation
+
+The documentation is available in two languages:
+
+- [English version](en/README.en.md)
+- [Czech version](cz/README.cs.md)
