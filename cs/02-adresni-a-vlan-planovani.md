@@ -1,4 +1,4 @@
-# **2 – Adresní a VLAN plánování**
+# **2 - Adresní a VLAN plánování**
 
 ## 2.1 - Úvod
 
