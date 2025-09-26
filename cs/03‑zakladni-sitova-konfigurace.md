@@ -352,7 +352,7 @@ V kapitole se nastavují hostname zařízení s přístupem do CLI a konfiguruj�
 
 Pro účely simulace je OSPF zapnut i na ISP. **Funkčnost je potvrzena pingem z R3 na ISP (5/5 bez ztráty).**
 
-**Pokračovat na další kapitolu: vlany subinterfaces.**
+**Pokračovat na další kapitolu:** [VLANy a subinterface](04-vlany-a-subinterface.md)
 
 
 
