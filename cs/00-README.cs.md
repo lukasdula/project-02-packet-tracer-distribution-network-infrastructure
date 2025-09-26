@@ -33,7 +33,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 7. [Testování konektivity](07-testovani-konektivity.md)
     
-8. [Řešení problémů](
+8. [Řešení problémů](08-reseni-problemu.md)
     
 9. [Shrnutí a závěr](
     
