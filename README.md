@@ -8,5 +8,5 @@ The project was developed as part of my preparation for **CCNA I: Introduction t
 
 The documentation is available in two languages:
 
-- [English version](en/README.en.md)
+- [English version](en/00-README.en.md)
 - [Czech version](cs/00-README.cs.md)
