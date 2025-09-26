@@ -31,7 +31,7 @@ Síť je systematicky rozdělena do několika zón, které odpovídají běžné
     
 6. [Zabezpečení sítě](06-zabezpeceni-site.md)
     
-7. [Testování konektivity](
+7. [Testování konektivity](07-testovani-konektivity.md)
     
 8. [Řešení problémů](
     
