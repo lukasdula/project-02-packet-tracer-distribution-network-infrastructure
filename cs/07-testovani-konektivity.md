@@ -111,7 +111,7 @@ show ip ospf neighbor
 show ip route ospf
 ping 10.31.1.2
 ```
-![OSPF-TEST-2](Pasted%20image%2020250922210728.png)
+![OSPF-TEST2](../images/Pasted%20image%2020250926185615.png)
 
 **Router R3:**
 
