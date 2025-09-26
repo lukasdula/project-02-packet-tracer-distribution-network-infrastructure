@@ -71,4 +71,7 @@ Static addresses are reserved only for servers, network services in VLAN 10 (Adm
 
 The IP addressing and VLAN segmentation design is a key element for the subsequent configuration of routing, switching, and network services.
 
-**Continue to the next chapter:** Basic Network Configuration
+
+---
+
+**Continue to the next chapter:** [Basic Network Configuration](03-basic-network-configuration.md)  
