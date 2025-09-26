@@ -367,4 +367,4 @@ Syslog centralizes logs on SRV01 and NTP provides a unified time across the netw
 
 ---
 
-**Continue to the next chapter:** Network Security
+**Continue to the next chapter:** [Network Security](06-network-security.md)  
