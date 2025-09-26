@@ -32,4 +32,4 @@ Testing and troubleshooting confirmed the correct functionality of all component
 
 ---
 
-**Back to project overview:** [00-README](00-README.en.md)
+**Back to project overview:** [README](00-README.en.md)
