@@ -96,4 +96,4 @@ For the next step, I want to create an **enterprise network project**, connectin
 
 ---
 
-© 2025 – Lukáš Dula | Home Network Lab & Portfolio
+© 2025 – Lukas Dula | Home Network Lab & Portfolio
