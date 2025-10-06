@@ -94,4 +94,13 @@ Celý projekt ukazuje, že i střední model sítě může integrovat široké m
 
 ---
 
+© 2025 - Lukáš Dula | Domácí síťový projekt & portfolio
+
+
+
+
+
+
+
+
 © 2025 - Lukáš Dula | Domácí síťový lab & portfolio
