@@ -4,7 +4,7 @@ This is my second network project – a medium-sized distribution network infras
 
 The project was developed as part of my preparation for **CCNA I: Introduction to Networks**.
 
-![TYPOLOGY-MAP](../images/Pasted%20image%2020250926200556.png)
+![TYPOLOGY-MAP](/images/Pasted%20image%2020250926200556.png)
 
 
 ## Documentation
