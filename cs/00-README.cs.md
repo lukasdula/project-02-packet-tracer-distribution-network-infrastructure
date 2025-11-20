@@ -7,6 +7,15 @@ Nepřímo navazuje na první projekt, kde byla vytvořena síť pro menší podn
 
 Síť je nastavena v prostředí Cisco Packet Tracer pomocí CLI. Komunikace mezi odděleními je řešena pomocí VLAN segmentace a směrování OSPF. Jeden z routerů funguje jako ISP a doplňuje tak realistickou firemní topologii. Servery poskytují potřebnou infrastrukturu pro provoz celé sítě a komunikaci mezi jednotlivými odděleními. ACL složitější politika reguluje přístupy mezi VLANami a simuluje pravidla odpovídající reálným podnikům.
 
+
+## Topologická Mapa
+
+![TYPOLOGY-MAP](../images/Pasted%20image%2020250926200556.png)
+
+
+
+
+
 Síť je systematicky rozdělena do několika zón, které odpovídají běžné firemní infrastruktuře:
 
 - **ISP zóna** -> simulace poskytovatele internetu
