@@ -7,6 +7,17 @@ It indirectly follows the first project, where a network for a smaller company w
 
 The network is implemented in Cisco Packet Tracer using CLI. Communication between departments is managed through VLAN segmentation and OSPF routing. One of the routers functions as an ISP, complementing the setup with a realistic corporate topology. Servers provide the necessary infrastructure for the entire network and communication between departments. A more complex ACL policy regulates access between VLANs and simulates rules corresponding to real-world business requirements.
 
+
+## Topology Diagram
+
+![TYPOLOGY-MAP](/images/Pasted%20image%2020250926200556.png)
+
+
+
+
+
+
+
 The network is systematically divided into several zones that reflect common enterprise infrastructure:
 
 - **ISP Zone** -> simulation of the internet provider  
