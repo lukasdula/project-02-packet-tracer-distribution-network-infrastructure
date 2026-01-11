@@ -99,7 +99,7 @@ Tento druhý projekt mě hodně bavil, protože jsem díky zkušenostem z první
 
 Velký přínos měla aplikace ACL politiky, která síti dodává realističtější podobu podnikových pravidel a umožňuje přesně definovat povolené i zakázané přístupy. Novinkou byla také VLAN 99, díky níž lze provádět bezpečnou správu přepínačů oddělenou od zbytku provozu, a rozšíření služeb o NTP a Syslog. I subnetting se pro mě stal důležitým nástrojem, který mi přinesl fantasii i větší jistotu při adresování a návrhu sítě.
 
-Celý projekt ukazuje, že i střední model sítě může integrovat široké množství funkcí a přesto fungovat jako ucelený a stabilní celek. Do další fáze se chci posunout projektem zaměřeným na menší model enterprise sítě, kde plánuji propojení dvou poboček pomocí GRE tunelu, více nových funkcí, přidání desítek dalších zařízení a detailnější ukázku využití Wi-Fi. 
+Celý projekt ukazuje, že i střední model sítě může integrovat široké množství funkcí a přesto fungovat jako ucelený a stabilní celek.
 
 ---
 
