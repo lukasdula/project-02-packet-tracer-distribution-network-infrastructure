@@ -102,7 +102,7 @@ A big step forward was using ACL policies, which made the network look more like
 I also added VLAN 99 for secure switch management, and new services like NTP and Syslog. Subnetting became an important tool for me, giving me more confidence in addressing and planning the network.
 
 This project shows that even a medium-size network can include many features and still work as one stable system.  
-For the next step, I want to create an **enterprise network project**, connecting two branches with GRE tunnels, adding more services, more devices, and a detailed example of Wi-Fi deployment.
+
 
 
 ---
